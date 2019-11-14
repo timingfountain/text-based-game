@@ -55,6 +55,7 @@ public class Main {
 
 
     public static void main(String[] args){
+        //calling method SceneGen to automate Scene creation
         SceneGen();
 
 
